@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Matlab/Simulink
+slprj/
+*.slxc
+*.autosave
+*.asv
