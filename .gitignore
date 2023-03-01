@@ -134,3 +134,5 @@ slprj/
 *.autosave
 *.asv
 *.r2*
+
+.DS_Store
